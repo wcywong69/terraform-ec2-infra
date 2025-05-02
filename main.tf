@@ -1,3 +1,4 @@
+#Try again
 resource "aws_instance" "public" {
   ami                         = "ami-0e8ebb0ab254bb563" # find the AMI ID of Amazon Linux 2023
   instance_type               = "t2.micro"
